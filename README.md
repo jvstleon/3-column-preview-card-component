@@ -12,8 +12,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/scss-bootstrap-created-preview-card-component-woXBAFhna
+- Live Site URL: https://jvstleon.github.io/3-column-preview-card-component/
 
 
 ## Built with
